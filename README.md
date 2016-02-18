@@ -1,2 +1,2 @@
 # Sudoku
-Inlämningsuppgift EDAA01
+Collaboration Project
